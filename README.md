@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @verojoe03
+- 👤My 2nd github account is @VeronicaJoe
 - 👀 I’m interested in Coding,Building something new
 - 🌱 I’m currently learning Web Development, SQL, and different programming languages
 - 💞️ I’m looking to collaborate on ...
